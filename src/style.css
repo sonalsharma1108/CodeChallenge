@@ -1,0 +1,7 @@
+.CreateComponent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 10px;
+}
